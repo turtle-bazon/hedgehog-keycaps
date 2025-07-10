@@ -33,3 +33,22 @@ Support choc or mx stem and exported in three variants - mx spacing mx stem (mx-
 ![hedgehog-keycaps-crkbd3](assets/IMG_20250710_183056_HDR.jpg)
 ![hedgehog-keycaps-crkbd4](assets/IMG_20250710_183105_HDR.jpg)
 
+# Printing guide
+
+You can print as you think it will be better, but I personally prefer print it at 45 degree and 0.1 mm layer height. Also 75 degrees give good results. Placing bottom side to table allow you to acheive good surface, placing up uside to table could eliminate usage of supports.
+
+## Bottom side to table 45 degree
+
+![hedgehog-keycaps-slice-normal-45](assets/slice-normal-45.png)
+
+## Bottom side to table 75 degree
+
+![hedgehog-keycaps-slice-normal-75](assets/slice-normal-75.png)
+
+## Up side face to table 45 degree (135 degree)
+
+![hedgehog-keycaps-slice-reverse-45](assets/slice-reverse-45.png)
+
+## Up side face to table 75 degree (105 degree)
+
+![hedgehog-keycaps-slice-reverse-75](assets/slice-reverse-75.png)
