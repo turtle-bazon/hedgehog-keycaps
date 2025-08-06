@@ -1,21 +1,55 @@
 # HedgeHog keycaps
 
-Support choc or mx stem and exported in three variants - mx spacing mx stem (mx-mx), mx spacing choc stem (mx-choc), choc spacing choc stem (choc-choc). Set consist of 3 types of 1u caps and 1 type of 1.5u caps.
+Support choc or mx stem and exported in four variants - choc spacing choc stem (choc-choc), choc spacing mx stem (choc-mx), mx spacing choc stem (mx-choc), mx spacing mx stem (mx-mx). Basic set consist of 3 types of 1u caps and 1 type of 1.5u caps. POS set consist of horizontal and vertical generic 2u caps and horizontal thumb 2u cap.
 
-1u types:
+Basic type keycaps:
  * R2 - main keycap profile;
  * R2-home - homing keys with aggressive homings;
  * T1 - keycap for thumb cluster;
-
-1.5u keycaps:
  * T1.5 - 1.5u version of 1u thumb keycap;
+
+POS mount style keycaps:
+ * 2R2-H - 2u horizontal;
+ * 2R2-V - 2u vertical;
+ * 2T1-H - 2u horizontal thumb;
 
 # Rendered models
 
-![hedgehog-keycaps-1](assets/v1.png)
-![hedgehog-keycaps-2](assets/v2.png)
-![hedgehog-keycaps-3](assets/v3.png)
-![hedgehog-keycaps-4](assets/v4.png)
+## Basic set
+
+### Choc spacing, Choc stem (choc-choc)
+
+![basic-choc-choc](assets/basic-choc-choc.png)
+
+### Choc spacing, MX stem (choc-mx)
+
+![basic-choc-mx](assets/basic-choc-mx.png)
+
+### MX spacing, Choc stem (mx-choc)
+
+![basic-mx-choc](assets/basic-mx-choc.png)
+
+### MX spacing, MX stem (mx-mx)
+
+![basic-mx-mx](assets/basic-mx-mx.png)
+
+## POS set
+
+### Choc spacing, Choc stem (choc-choc)
+
+![pos-choc-choc](assets/POS-choc-choc.png)
+
+### Choc spacing, MX stem (choc-mx)
+
+![pos-choc-mx](assets/POS-choc-mx.png)
+
+### MX spacing, Choc stem (mx-choc)
+
+![pos-mx-choc](assets/POS-mx-choc.png)
+
+### MX spacing, MX stem (mx-mx)
+
+![pos-mx-mx](assets/POS-mx-mx.png)
 
 # Realworld applications
 
