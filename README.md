@@ -6,7 +6,7 @@ Basic type keycaps:
  * R2 - main keycap profile;
  * R2-home - homing keys with aggressive homings;
  * T1 - keycap for thumb cluster;
- * T1.5 - 1.5u version of 1u thumb keycap;
+ * 1.5T1-H - 1.5u version of 1u thumb keycap, horizontal orientation;
 
 POS mount style keycaps:
  * 2R2-H - 2u horizontal;
